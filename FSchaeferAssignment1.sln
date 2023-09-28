@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSchaeferAssignment1", "FSchaeferAssignment1\FSchaeferAssignment1.csproj", "{227B5840-AAD0-43FF-BA57-FCFB30C9AD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227B5840-AAD0-43FF-BA57-FCFB30C9AD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227B5840-AAD0-43FF-BA57-FCFB30C9AD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227B5840-AAD0-43FF-BA57-FCFB30C9AD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227B5840-AAD0-43FF-BA57-FCFB30C9AD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A23C6D-2A77-48AC-A7C7-21D5DBD86FDF}
+	EndGlobalSection
+EndGlobal
